@@ -64,7 +64,7 @@ ethers-transaction-script
 1. **Clone** this repository:
 
    ```bash
-   git clone https://github.com/your-username/ethers-transaction-script.git
+   git clone https://github.com/knightorbit/ethers-transaction-script.git
    cd ethers-transaction-script
    ```
 
